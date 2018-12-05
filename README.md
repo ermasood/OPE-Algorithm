@@ -12,7 +12,7 @@ load the ground truth
 Press start OPE Algorithm. 
 
 Algorithm will gives the optimised results in table and the graphs shows 
-the learning process of OPT algorithm and clustering result at optimised parameter.
+the learning process of OPE algorithm and clustering result at optimised parameter.
 
 ----------------------------------
 For Runnning OPE on Spikes
@@ -25,7 +25,7 @@ load the ground truth
 Press start OPE Algorithm. 
 
 Algorithm will gives the optimised results in table and the graphs shows 
-the learning process of OPT algorithm and clustering result at optimised parameter.
+the learning process of OPE algorithm and clustering result at optimised parameter.
 
 --------------------------------
 For running OPE on Datsets:
